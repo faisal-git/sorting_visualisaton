@@ -1,0 +1,3 @@
+AIM: in this project i tried to implement sorting alogorithms whose mechanism can be seen in real time.
+Language: Pyhton3
+module: tkinter for gui and others
